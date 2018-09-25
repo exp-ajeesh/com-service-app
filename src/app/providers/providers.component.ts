@@ -5,7 +5,7 @@ import { DataService } from "../data.service";
   selector: 'app-providers',
   template: `
   <div class="form-signin">
-    <h2>Provider</h2>
+    <h2>Provider Component</h2>
     <div class="message-view-blk">
       {{message}}
       <ul>
