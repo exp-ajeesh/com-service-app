@@ -1,0 +1,10 @@
+#container {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    height: auto;
+  }
+
+  .wrapper {
+    width: 48%;
+    float: left; }
